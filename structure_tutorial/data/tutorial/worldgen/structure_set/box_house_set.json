@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "tutorial:box_house_struct",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 3,
+    "separation": 2,
+    "salt": 138537,
+    "frequency": 1
+  }
+}

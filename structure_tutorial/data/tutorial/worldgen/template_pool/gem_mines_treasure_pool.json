@@ -1,0 +1,33 @@
+{
+  "name": "gem_mines_treasure_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "tutorial:gem_mines_treasure_pile1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "tutorial:gem_mines_treasure_pile2",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "tutorial:gem_mines_treasure_pile3",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
